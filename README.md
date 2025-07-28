@@ -4,5 +4,7 @@ The entire code for the manuscript can be found in this repo. Please be aware th
 
 You can run the notebooks via binder (see link below). It is recommended to run the notebooks on your own PC, given the restricted compute resources in binder's container.
 
+Note: Results in your computations might differ from the exemplary use cases in the paper.
+
 ### Link to the binder:
 https://hub.gesis.mybinder.org/user/pawelbure-colab-er_woc_ajp_2025-xeni2vu7/lab/
